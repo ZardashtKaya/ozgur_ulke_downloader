@@ -5,7 +5,7 @@
 ```
 chmod +x get.sh; chmod +x fix.sh;
 ```
-then run the script to get all the papers from a year you want, as an example, 1990:
+then run the script to get all the papers from a year you want, as an example, 1992:
 ```
 ./get.sh 1992
 ```
