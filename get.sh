@@ -16,3 +16,4 @@ for i in $(cat links3.txt)
     do echo "https://ozgurbasinarsiv.com/media/"$(echo $i | cut -d ":" -f2) >> links_to_download.txt
     done 
     rm months0.txt months1.txt links.txt links2.txt links3.txt 
+mkdir Downloads
